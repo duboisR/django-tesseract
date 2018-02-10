@@ -22,4 +22,5 @@ pip install -Ur requirements.txt
 ## Test de l'extraction de texte via Tesseract
 
 La vidéo est disponible sur le lien suivant:
+
 https://www.useloom.com/share/bc991388a02047a7ae2f9796f23a719f
