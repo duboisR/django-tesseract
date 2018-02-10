@@ -8,7 +8,7 @@ Django: 2.0
 
 Récupération du dépôt Github.
 ```
-git clone https://github.com/duboisR/django_email.git
+git clone https://github.com/duboisR/django_tesseract.git
 cd django_tesseract
 ```
 
